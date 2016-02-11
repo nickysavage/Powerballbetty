@@ -1,0 +1,1 @@
+print("This is py2exe demo program")
